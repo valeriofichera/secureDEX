@@ -12,5 +12,3 @@ contract ContractScript is Script {
         new HelloWorld("Hello from Foundry!");
     }
 }
-
-cast send $CONTRACT_ADDRESS "updateGreeting(string)" "Penis" --private-key $PRIVATE_KEY
