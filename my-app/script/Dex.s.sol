@@ -13,9 +13,9 @@ contract ContractScript is Script {
         vm.startBroadcast();
         
         // Provide the address of the initialOwner here
-        address initialOwner = 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266; // Replace with the actual address
+        address initialOwner = 0xe2D3C55a61BE30ce58324Be5bd188F1bEAc06f58; // Replace with the actual address
         
-        // Deploy the USDC contract with the provided initialOwner address
+        // Deploy the USDC & ETH contract with the provided initialOwner address
         USDC usdc = new USDC(initialOwner);
         ETHER eth = new ETHER(initialOwner);
 
