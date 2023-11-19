@@ -27,3 +27,5 @@ Base: https://goerli.basescan.org/tx/0xba7643d87f4fa775c6d006725135c36b6ec7e0409
 
 Optimism: https://goerli-optimism.etherscan.io/tx/0xca13dd5d13db2223aa57d3b0e2f5ea14d37cdd751077d665b783f3911fb5b649
 
+Mantle: https://explorer.testnet.mantle.xyz/tx/0x6534c94250e0494168aada4904fed691529f913f71fa9b49ae64ad0755aae25a
+
