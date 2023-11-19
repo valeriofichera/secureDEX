@@ -14,6 +14,9 @@ https://youtu.be/OGh4zy4VRRI
 ![How](/images/how.png)
 
 ## How it looks like
+
+![fail](/images/failed.png)
+
 ![Look](/images/swaps.png)
 
 
