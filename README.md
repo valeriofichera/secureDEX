@@ -19,3 +19,12 @@ https://www.loom.com/share/921c597bfc53413f83725b9ee620e9ff?sid=e6a94b9e-d490-4d
 
 ## How it looks like
 ![Look](/images/swaps.png)
+
+
+### Deployments
+Mumbai: https://mumbai.polygonscan.com/tx/0x6f4f834204db71e8e78fcbd55d43cdbc1fd99f655c01659c9020e07fc3fa8b17
+
+Base: https://goerli.basescan.org/tx/0xba7643d87f4fa775c6d006725135c36b6ec7e0409900c47fa9451fbabee2cf68
+
+Optimism: https://goerli-optimism.etherscan.io/tx/0xca13dd5d13db2223aa57d3b0e2f5ea14d37cdd751077d665b783f3911fb5b649
+
