@@ -16,3 +16,6 @@ https://www.loom.com/share/921c597bfc53413f83725b9ee620e9ff?sid=e6a94b9e-d490-4d
 
 ## How it Works
 ![How](/images/how.png)
+
+## How it looks like
+![Look](/images/swaps.png)
