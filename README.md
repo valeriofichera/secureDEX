@@ -23,6 +23,8 @@ https://youtu.be/OGh4zy4VRRI
 ### Deployments
 Mumbai: https://mumbai.polygonscan.com/tx/0x6f4f834204db71e8e78fcbd55d43cdbc1fd99f655c01659c9020e07fc3fa8b17
 
+zkEVM: https://testnet-zkevm.polygonscan.com/tx/0x8a6b5511f97b438dd1668f13d926efa88e9f2adafdbd57ef3af677318aa1cc0a
+
 Base: https://goerli.basescan.org/tx/0xba7643d87f4fa775c6d006725135c36b6ec7e0409900c47fa9451fbabee2cf68
 
 Optimism: https://goerli-optimism.etherscan.io/tx/0xca13dd5d13db2223aa57d3b0e2f5ea14d37cdd751077d665b783f3911fb5b649

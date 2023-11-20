@@ -150,5 +150,3 @@ function userProtectedSwap(address _tokenIn, uint256 _amountIn, uint256 _minAmou
 
     // Note that there are no functions to remove liquidity in this version
 }
-
-
